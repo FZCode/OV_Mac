@@ -71,8 +71,3 @@ of parallel workers can be changed in `R/config.R`.
   them.
 - No mitochondrial / doublet filtering is applied beyond
   `min.cells = 3` and `min.features = 300`.
-
-## Citation
-
-If you use the metabolism scoring, please cite scMetabolism:
-Wu Y, et al. *Cancer Discovery* 2021. https://pubmed.ncbi.nlm.nih.gov/34417225/
